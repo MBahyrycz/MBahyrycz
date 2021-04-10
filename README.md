@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 
-My name is Mateusz Mahyrycz. I am the third year <b>Automatics and Robotics</b> student at AGH UST and fifth year student of <b>Medicine</b> at Jagiellonian University.
+My name is Mateusz Bahyrycz. I am the third year <b>Automatics and Robotics</b> student at AGH UST and fifth year student of <b>Medicine</b> at Jagiellonian University.
 <br>
 I am intrested in graphic programming and artifical inteligence, expecially conected with medicine. 
 <br>
