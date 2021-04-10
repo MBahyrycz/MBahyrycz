@@ -1,8 +1,18 @@
 ### Hi there 👋
+<hr>
+
+My name is Mateusz Mahyrycz. I am the third year <b>Automatics and Robotics</b> student at AGH UST and fifth year student of <b>Medicine</b> at Jagiellonian University.
+<br>
+I am intrested in graphic programming and artifical inteligence, expecially conected with medicine. 
+<br>
+- 🔭 I am currently working on BIGOS - rendering engine, that allows user to create real-time rendering applications. It supports DirectX11 (Vulkan and DirectX12 support is in development right now).
+- 🌱 I am currently learning new graphics and computing technologies as well as modern hardware architecture.
+
+
 
 <!--
 **MBahyrycz/MBahyrycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Vulkan](https://github.com/KhronosGroup/Vulkan-Guide/blob/master/images/vulkan_logo.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
