@@ -7,8 +7,6 @@ I am intrested in graphic programming and artifical inteligence, expecially cone
 <br>
 - 🔭 I am currently working on:
 1. BIGOS - rendering engine, that allows user to create real-time rendering applications. It supports DirectX11 (Vulkan and DirectX12 support is in development right now).
-2. Ueli - CPU/GPU driven backend for computing DNN and CNN, focused on SIMD and SIMT (https://github.com/FalsenAIne/Ueli)
-- 🌱 I am currently learning new graphics and computing technologies as well as modern hardware architecture.
 
 
 
