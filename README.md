@@ -31,8 +31,3 @@ I am architecting a high-performance simulation engine designed to model biologi
 * **Systems Biology:** Understanding emergent behavior in tissues through discrete modeling.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
