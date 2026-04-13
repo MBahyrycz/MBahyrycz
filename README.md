@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Mateusz Bahyrycz
 
 ### 🩺 Physician & 💻 Computer Scientist
 **Bridging the gap between In Vivo complexity and In Silico precision.**
